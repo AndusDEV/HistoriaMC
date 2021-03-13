@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HistoriaMC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HistoriaMC_jar</output-path>
+    <root id="archive" name="HistoriaMC.jar">
+      <element id="module-output" name="HistoriaMC" />
+    </root>
+  </artifact>
+</component>
